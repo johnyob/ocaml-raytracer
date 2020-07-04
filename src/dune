@@ -1,0 +1,5 @@
+(library
+    (name raytracer)
+    (libraries base stdio))
+
+(include_subdirs unqualified)
