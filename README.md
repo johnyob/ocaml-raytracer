@@ -15,5 +15,5 @@ Some features of the ray tracer:
 Images are stored in a PPM format, with `image.ml` ported from FoCS tick 5 (Thanks [Anil](https://github.com/avsm)!).
 
 An example scene (specified by Peter Shirley's mini-book series [Raytracing in One Weekend](https://raytracing.github.io/)):
-![Scene](./image.ppm)
+![Scene](./image.jpeg)
 
