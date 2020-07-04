@@ -6,7 +6,7 @@ A functional realization of a raytracer taking advantage of
 OCaml's module system and algebraic data types; in an attempt
 to generalize the interfaces of components within a raytracer. 
 
-Some features of the ray tracer:
+Some features of the raytracer:
 - Surfaces: Spheres and planes.
 - Materials: Lambertian, Metallic and Dielectric materials.
 - Camera: Defined using a viewer, view plane and projection.
